@@ -19,7 +19,7 @@
 
         4.  补充：[5月底6月初]主题下增加[交学费]子主题.
 
-        5.  ~~[528修正,详见528更新记录]补充：[5月底6月初]-[IPA申请]主题下, eForm签字统一按照护照英文如JI YULU~~
+        5.  [528修正,详见528更新记录]~~补充：[5月底6月初]-[IPA申请]主题下, eForm签字统一按照护照英文如JI YULU~~
 
         6.  补充：[5月底6月初]-[IPA申请]-[③填表]，Travel
             Document细节化为International Passport[其他视自己情况定]
@@ -28,11 +28,11 @@
         
         1.  Bug：IPA申请时eForm16签字按照护照上手签signature形式签. 【已经签好拼音的话应该也没有问题, 毕竟我一个毕业的同学说从过去到在坡从来没有签过中文. 】
         2.  528更新：Taiwan被剔除出group 0. 请见文件<https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf>
-        3.  补充主题： [重要网站]
+        3.  补充主题： [重要官方网站]
         4.  待填坑：学费...暂时还未付钱...
         5.  补充：[6月-7月初,[申请完EA后]抵坡前订机票等]主题下增加订酒店的说明.
    
-3.  重要网站
+3.  重要官方网站
 
     1.  **95%满足需求且实时更新** STPHL requirements. 而且有很多超链接比如[留观政策](https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf)，比如[申请EA的STO online
             portal](https://eservices.ica.gov.sg/STO)
