@@ -10,29 +10,40 @@
 
     3.  0527-2300
 
-        1.  ①Bug: 新加坡并非对中国免签,见链接页面中的Travel Documents by
+        1.  Bug: 新加坡并非对中国免签,见链接页面中的Travel Documents by
             Countries and Places部分, 中国在需要ENTRY VISA的列表内.
 
         2.  **但是申请IPA会自动给你申请VISA,所以这个错误可以忽略,也不用管VISA是啥，我们需要的是IPA和EA**
 
-        3.  ②Bug: IPA处理时间5天,5-10工作日或更长，一般一周内会好。
+        3.  Bug: IPA处理时间5天,5-10工作日或更长，一般一周内会好。
 
-        4.  ③补充：[5月底6月初]主题下增加[交学费]子主题.
+        4.  补充：[5月底6月初]主题下增加[交学费]子主题.
 
-        5.  ④补充：[5月底6月初]-[IPA申请]主题下, eForm签字统一按照护照英文如JI
-            YULU.
+        5.  ~~[528修正,详见528更新记录]补充：[5月底6月初]-[IPA申请]主题下, eForm签字统一按照护照英文如JI YULU~~
 
-        6.  ⑤补充：[5月底6月初]-[IPA申请]-[③填表]，Travel
+        6.  补充：[5月底6月初]-[IPA申请]-[③填表]，Travel
             Document细节化为International Passport[其他视自己情况定]
+            
+    4. 0528-2000
+        
+        1.  Bug：IPA申请时eForm16签字按照护照上手签signature形式签. 【已经签好拼音的话应该也没有问题, 毕竟我一个毕业的同学说从过去到在坡从来没有签过中文. 】
+        2.  528更新：Taiwan被剔除出group 0. 请见文件<https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf>
+        3.  补充主题： [重要网站]
+        4.  待填坑：学费...暂时还未付钱...
+        5.  补充：[6月-7月初,[申请完EA后]抵坡前订机票等]主题下增加订酒店的说明.
+   
+3.  重要网站
 
-3.  名词解释
+    1.  **95%满足需求且实时更新** STPHL requirements. 而且有很多超链接比如[留观政策](https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf)，比如[申请EA的STO online
+            portal](https://eservices.ica.gov.sg/STO)
+
+4.  名词解释
 
     1.  SHN: Stay-Home Notice, 坡关于新冠的留观和核酸检测政策
 
         具体见文件<https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf>
-        Group 0: *Australia, Brunei Darussalam, Mainland China, New Zealand,
-        Taiwan* 若属于Group 0,则不需要留观,
-        只需要在入境时核酸检测-\>在自费单人住所住两天等核酸结果
+        Group 0: *Australia, Brunei Darussalam, Mainland China, New Zealand* 
+        若属于Group 0,则不需要留观. 只需要在入境时核酸检测-\>在自费单人住所住两天等核酸结果
 
     2.  ICA: 新加坡移民关卡局, 官网:[Immigration & Checkpoints Authority
         (ICA)](https://www.ica.gov.sg/)
@@ -48,7 +59,7 @@
 
     5.  EA: Entry Approval, 持各类签证的人都需要申请的一个入境许可.
 
-4.  **本文面向读者**：
+5.  **本文面向读者**：
 
     1.  2021MSC FINANCE, 719迎新, 726开学[其他项目应该也可以参考? I don't know]
 
@@ -72,7 +83,7 @@
         [website](https://www.ica.gov.sg/enter-depart/extend_short_stay)**.**
         **Overstaying is a punishable offence under the Immigration Act.**
 
-5.  项目事宜[20/21 MSC FINANCE]
+6.  项目事宜[20/21 MSC FINANCE]
 
     1.  学杂费 \$50800[约25w rmb]：
 
@@ -84,7 +95,7 @@
 
             ![](media/147cf639e91fc87c0eafdcb3a5f0b74f.png)
 
-6.  流程
+7.  流程
 
     1.  **IPA-\>EA-\>机票、体检预约等-\>抵坡[核酸]-\>IPA换STP**
 
@@ -99,7 +110,7 @@
             1.  时间：在课程开始前的**1-2个月**内申请, **IPA有效期6个月,
                 IPA≠STP.**
 
-            2.  地址：SOLAR系统, 具体见操作
+            2.  地址：[SOLAR系统](https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf), 具体见操作
 
                 Student's Pass OnLine Application & Registration.
                 用于申请和更新已签发的STP的信息
@@ -116,7 +127,7 @@
                     and course end dates 3. SOLAR application reference number
 
                 2.  ②登录：使用SOLAR FORM上的五个字段(SOLAR app no., Name, Sex,
-                    Nationality, Birth Date)登录SOLAR系统. **Kindly ensure that
+                    Nationality, Birth Date)登录[SOLAR系统](https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf). **Kindly ensure that
                     your name input onto the ICA (Student login page) follows
                     the format reflected on the SOLAR form provided.**
 
