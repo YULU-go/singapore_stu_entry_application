@@ -1,5 +1,7 @@
 # 顺利入读NTU的秃头之路-副本
 
+[幕布链接](https://mubu.com/colla/2ACjiAWVj5x)
+
 1.  作者：季煜璐
 
 2.  更新日志
