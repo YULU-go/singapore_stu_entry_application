@@ -34,7 +34,7 @@
    
 3.  重要官方网站
 
-    1.  **95%满足需求且实时更新** STPHL requirements. 而且有很多超链接比如[留观政策](https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf)，比如[申请EA的STO online
+    1.  **95%满足需求且实时更新** [STPHL requirements](https://safetravel.ica.gov.sg/stpl/requirements-and-process). 而且有很多超链接比如[留观政策](https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf)，比如[申请EA的STO online
             portal](https://eservices.ica.gov.sg/STO)
 
 4.  名词解释
@@ -66,11 +66,10 @@
     2.  初次入境, **属于留观政策中的Group 0, 不需要SHN**,
         入境时核酸阴性,无合格随行人员
 
-        Group 0: *Australia, Brunei Darussalam, Mainland China, New Zealand,
-        Taiwan* 我们的目标是申请相关入境目的签证(对学生来讲就是STP/IPA)和EA即可.
+        Group 0: *Australia, Brunei Darussalam, Mainland China, New Zealand,* 
+        我们的目标是申请相关入境目的签证(对学生来讲就是STP/IPA)和EA即可.
 
-    3.  **其他group可参考流程，但是时间规划需根据SHN调整**. 有随行人员见STPHL
-        requirements[student's pass holder lane requirements]
+    3.  **其他group可参考流程，但是时间规划需根据SHN调整**. 有随行人员见[STPHL requirements](https://safetravel.ica.gov.sg/stpl/requirements-and-process)
 
     4.  **注意事项：①情况可能有变,请实时追踪邮件/消息群/本文所给参考链接.
         作者也蛮懒的, 但会尽力更新[冲！].②
@@ -363,8 +362,8 @@
         1.  订机票\&Confirm flight/travel details to
             Singapore???,我猜是订机票的一个环节?
 
-        2.  在NTU Travel
-            Declaration系统上更新自己已确认的航班和旅程信息[**出发前至少2周**,根据con-
+        2.  在[NTU Travel
+            Declaration系统](https://sso.wis.ntu.edu.sg/webexe88/owa/sso_login1.asp?t=2&p2=https://wis.ntu.edu.sg/pls/webexe88/declare_overseas.plans&extra=&pg=)上更新自己已确认的航班和旅程信息[**出发前至少2周**,根据con-
             offer.pdf-Travel Declaration], 如有变更需在系统上更新
 
         3.  在[NTU Contact
@@ -423,10 +422,7 @@
 
             1.  EA Letter, STP/IPA
 
-            2.  [中国国籍不需要]Valid visa to enter Singapore (for visa-required
-                travellers).
-
-            3.  [group 0不需要]Valid certificate of negative result for a
+            2.  [group 0不需要]Valid certificate of negative result for a
                 COVID-19 PCR test taken within 72 hours before departure for
                 Singapore (if applicable).
 
