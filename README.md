@@ -1,6 +1,6 @@
 # 顺利入读NTU的秃头之路-副本
 
-[幕布链接](https://mubu.com/colla/2ACjiAWVj5x)
+[幕布链接](https://mubu.com/colla/2ACjiAWVj5x)[和本文同步更新,看幕布的话这个markdown可以不看,幕布阅读体验更友好~]
 
 1.  作者：季煜璐
 
@@ -11,7 +11,7 @@
         1. 因为政策有变化, 作者也是新手申请. 会随着政策和申请体验逐步更新或者修改
         2. 所以请直接从正文[重要网站]主题/一级标题 开始看起【不然看更新日志一脸懵逼】, 并跟进[更新日志]主题知道哪些发生了变化
 
-    3.  05271000：v1
+    3.  0527-1000：v1
 
     4.  0527-2300
 
@@ -35,9 +35,13 @@
         2.  528更新：Taiwan被剔除出group 0. 请见文件<https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf>
         3.  补充主题： [重要官方网站]
         4.  [530划掉, 详见530更新记录]~~补充：[6月-7月初,[申请完EA后]抵坡前订机票等]主题下增加订酒店的说明.~~
-    6. 530-0100
+    6. 0530-0100
         1. Bug：[EA申请流程], 护照姓名格式 JI YULU [不要按照那个智障指南只填[a-zA-Z]]
-        2. Bug：鉴于已申请完EA的同学的反馈, EA过程中要选择呆两天的酒店[就是待在酒店里等核酸结果], 建议先订好机票和酒店，再申请EA. -\> 所以, [5月底6月初]主题下增加[订机票和酒店]子主题
+        2. Bug：鉴于已申请完EA的同学的反馈, EA过程中要选择呆两天的酒店[就是待在酒店里等核酸结果], 建议先订好机票和酒店，再申请EA. -\> 所以, [5月底6月初]主题下增加[订机票和酒店]子主题]
+    7. 0603-0030
+        1. Bug：[EA申请流程], group 0申请EA不需要付钱[官方指南说要付钱,但它选了非group0做演示. anyway实践出真知, 本人已申完EA], 信息填完点确认则邮箱中就能收到EA letter
+        2. Bug：[EA后]，入境核酸检测支付未必严格在[抵坡前三天]操作, EA申请完且有航班/酒店信息就能填写预支付
+        3. 补充：[IPA申请],  race字段填CHINESE,  补充IPA成功申请的界面图片
    
 3.  重要官方网站
 
@@ -103,7 +107,7 @@
 
 7.  流程
 
-    1.  **IPA-\>订机票&2天酒店-\>EA、体检预约等-\>抵坡[核酸]-\>IPA换STP**
+    1.  **IPA-\>订机票&2天酒店-\>EA、体检预约等-\>抵坡[核酸]-\>抵坡后IPA换STP**
 
         ![](media/3b481d8cf5b8c1d71090ecb781a2f0a2.png)
 
@@ -124,7 +128,7 @@
             3.  操作：根据学校发的SOLAR application邮件操作,
                 以及参考STP/IPA申请教程@NTU
 
-                1.  ①确认信息：确认邮件附件(SOLAR FORM)信息是否正确,若否,联系NTU
+                1.  确认信息：确认邮件附件(SOLAR FORM)信息是否正确,若否,联系NTU
 
                     SOLAR FORM/Registration Acknowledgement Letter的来源：
                     ​NTU已经将你的基本信息注册到了ICA. 已注册的基本信息如下: 1.
@@ -132,12 +136,12 @@
                     your travel document) 2. Course details, course commencement
                     and course end dates 3. SOLAR application reference number
 
-                2.  ②登录：使用SOLAR FORM上的五个字段(SOLAR app no., Name, Sex,
+                2.  登录：使用SOLAR FORM上的五个字段(SOLAR app no., Name, Sex,
                     Nationality, Birth Date)登录[SOLAR系统](https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf). **Kindly ensure that
                     your name input onto the ICA (Student login page) follows
                     the format reflected on the SOLAR form provided.**
 
-                3.  ③填表：点击"Submit **eForm16**"，填表
+                3.  填表：点击"Submit **eForm16**"，填表
 
                     1.  若父母是坡籍或在坡工作/居住需要填TA的NRIC/FIN number.
 
@@ -145,30 +149,32 @@
 
                     3.  邮箱字段: 填可以联系到你的邮箱即可
 
-                    4.  Travel document：一般选international
+                    4.  Travel document字段：一般选international
                         passport.[其他视自己情况]
+                    5.  race字段：填CHINESE, 填其他的很可能申请被打回重填[有前车之鉴]
 
-                    5.  注意事项：
+                    6.  注意事项：
 
                         1.  填表过程中需要上传近期护照尺寸的彩照. 需要满足以下:
 
                             (1)3月内近照. (2)彩照, 背景白色. (3)露全脸, 不戴帽.
 
-                4.  **④打印eForm16**：后续完成STP申请手续需要**签名纸质版eForm16,**
+                4.  **打印eForm16**：后续完成STP申请手续需要**签名纸质版eForm16,**
 
                 5.  **签名统一按照护照英文如JI YULU**
 
-                6.  ⑤提交
+                6.  提交
 
-                7.  ⑥付钱：\$30.[7日内付掉,否则需重新申请]
+                7.  付钱：\$30.[7日内付掉,否则需重新申请]
 
                     交钱的时候不要点浏览器的前或退，否则可能终止交易.
                     需要重新申请.
 
                 8.  处理时间：5-10个工作日[或更长by case]
 
-                9.  查看申请状态：SOLAR系统
-
+                9.  查看申请状态：[SOLAR系统](https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf). 成功的界面↓, 上传文档啥的需要抵坡后操作比如在学校体检的文件等, 所以不用管它
+                ![](media/IPA_success_application_screenshot.png)
+                
                 10. 批准后，**打印IPA**
 
         2.  交学费
@@ -347,7 +353,7 @@
 
                         ![](media/6c6d410ce1e3441dc4fe180656053e7b.png)
 
-                11. 第9步：付钱
+                11. 第9步：付钱[group 0不用付钱所以不会出现这一步, 核酸检测缴费相对独立-见后文]
 
                     1.  付款有困难STO来帮你: contact the Safe Travel hotline at
                         6812 5555
@@ -360,14 +366,14 @@
 
                         ![](media/70994170b3b33958795381e56119bbc3.png)
 
-                        ①申请成功则会出现如图界面 ②打印或者截图以备记录
-                        ③确保邮箱中收到EA letter
+                        ①申请成功则会出现如图界面[group 0不用付钱] 
+                        ②打印或者截图以备记录
+                        ③确保邮箱中收到EA letter[==MSL-SPL-xxxxxxxxxxxx.pdf]
 
     4.  6月-7月初,[申请完EA后]抵坡前订机票等
 
-        1.  订机票\&Confirm flight/travel details to
-            Singapore???,我猜是订机票的一个环节?
-
+        1.  [若之前已经完成可以跳过]注册预付入境核酸检测. [在樟宜机场入境点这](https://safetravel.changiairport.com/).[在丹那美拉轮渡码头入境点这](https://oat.mpa.gov.sg/).通过陆路入境者, 直接现场操作.   
+        
         2.  在[NTU Travel
             Declaration系统](https://sso.wis.ntu.edu.sg/webexe88/owa/sso_login1.asp?t=2&p2=https://wis.ntu.edu.sg/pls/webexe88/declare_overseas.plans&extra=&pg=)上更新自己已确认的航班和旅程信息[**出发前至少2周**,根据con-
             offer.pdf-Travel Declaration], 如有变更需在系统上更新
@@ -404,8 +410,8 @@
 
             2.  出发前健康旅居情况史的提交和app的下载.
 
-                1.  在SG Arrival
-                    Card(SGAC)[SG入境电子卡]上报出发前健康旅居情况史
+                1.  在[SG Arrival
+                    Card(SGAC)\[SG入境电子卡\]](https://eservices.ica.gov.sg/sgarrivalcard/)上报出发前健康旅居情况史
 
                 2.  注册预付入境核酸检测.
                     [在樟宜机场入境点这](https://safetravel.changiairport.com/).[在丹那美拉轮渡码头入境点这](https://oat.mpa.gov.sg/).通过陆路入境者,
@@ -447,7 +453,8 @@
 
         2.  入境手续
 
-            1.  出示相关证件, 和已经注册填好信息的TraceTogether
+            1.  出示IPA、EA、护照、[SG Arrival
+                    Card(SGAC)\[SG入境电子卡\]](https://eservices.ica.gov.sg/sgarrivalcard/), 和已经注册填好信息的TraceTogether
                 app,入境检查结束后,app上点“ACTIVATE”激活.
 
         3.  入境核酸检测. [+SHN若适用]
@@ -488,18 +495,19 @@
                 Determined by ICA \$30.
 
             6.  预约现场拿STP.
+                1.  若是学校组织校内STP签发直接按学校通知操作,则不需如下步骤
 
-                1.  [网上预约](https://eservices.ica.gov.sg/ibook/index.do)日期时间.
+                2.  [网上预约](https://eservices.ica.gov.sg/ibook/index.do)日期时间.
 
-                2.  地点：如下
+                3.  地点：如下
 
                     Visitor Services Centre ICA Building 10 Kallang Road, Level
                     4 Singapore 208718 (next to Lavender MRT station)
 
-                3.  材料：IPA
+                4.  材料：IPA
                     letter上所要求的材料和[填好的条款确认书](https://www.ica.gov.sg/docs/default-source/ica/files/docs/terms_-_conditions_stp.pdf)
 
-                4.  当天去自助取票机拿号排队然后拿STP
+                5.  当天去自助取票机拿号排队然后拿STP
 
         8.  其他事项：
 
