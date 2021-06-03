@@ -40,8 +40,9 @@
         2. Bug：鉴于已申请完EA的同学的反馈, EA过程中要选择呆两天的酒店[就是待在酒店里等核酸结果], 建议先订好机票和酒店，再申请EA. -\> 所以, [5月底6月初]主题下增加[订机票和酒店]子主题]
     7. 0603-0030
         1. Bug：[EA申请流程], group 0申请EA不需要付钱[官方指南说要付钱,但它选了非group0做演示. anyway实践出真知, 本人已申完EA], 信息填完点确认则邮箱中就能收到EA letter
-        2. Bug：[EA后]，入境核酸检测支付未必严格在[抵坡前三天]操作, EA申请完且有航班/酒店信息就能填写预支付
-        3. 补充：[IPA申请],  race字段填CHINESE,  补充IPA成功申请的界面图片
+        2. 补充：[EA], 申请完EA如需更新Self-isolation Accommodation,请邮件MOE_STP_Request@moe.gov.sg
+        3. 补充：[EA后]，入境核酸检测支付未必严格在[抵坡前三天]操作, EA申请完且有航班/酒店信息就能填写预支付
+        4. 补充：[IPA申请],  race字段填CHINESE,  补充IPA成功申请的界面图片
    
 3.  重要官方网站
 
@@ -342,10 +343,7 @@
 
                 9.  第7B步：填accompanying Work Pass Holder信息[若适用]-略
 
-                10. 第8步：确认条款和付款明细
-
-                    1.  确认条款-点SUBMIT-确认付款明细[若有误请勿付钱并重新申请]-点MAKE
-                        PAYMENT
+                10. 第8步：确认条款和付款明细[group 0不用付钱所以不会出现`付款明细`这一步, 核酸检测缴费相对独立-见后文]
 
                         ![](media/7b9256071847b75f5b67ad4e8ef1d9ce.png)
 
@@ -369,8 +367,13 @@
                         ①申请成功则会出现如图界面[group 0不用付钱] 
                         ②打印或者截图以备记录
                         ③确保邮箱中收到EA letter[==MSL-SPL-xxxxxxxxxxxx.pdf]
+        5. 申请完EA如需更新Self-isolation Accommodation,请邮件MOE_STP_Request@moe.gov.sg
+            ![](media/update_selfiso_accom.png)
+        
+        6. [不急, 抵坡前几天操作也可]注册预付入境核酸检测. [在樟宜机场入境点这](https://safetravel.changiairport.com/).[在丹那美拉轮渡码头入境点这](https://oat.mpa.gov.sg/).通过陆路入境者, 直接现场操作.   
 
-    4.  6月-7月初,[申请完EA后]抵坡前订机票等
+
+    4.  6月-7月初,[申请完EA后]抵坡前
 
         1.  [若之前已经完成可以跳过]注册预付入境核酸检测. [在樟宜机场入境点这](https://safetravel.changiairport.com/).[在丹那美拉轮渡码头入境点这](https://oat.mpa.gov.sg/).通过陆路入境者, 直接现场操作.   
         
