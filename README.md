@@ -345,11 +345,11 @@
 
                 10. 第8步：确认条款和付款明细[group 0不用付钱所以不会出现`付款明细`这一步, 核酸检测缴费相对独立-见后文]
 
-                        ![](media/7b9256071847b75f5b67ad4e8ef1d9ce.png)
+                    ![](media/7b9256071847b75f5b67ad4e8ef1d9ce.png)
 
-                        ![](media/7bec967fbc8dda08452eb8eec83b49bf.png)
+                    ![](media/7bec967fbc8dda08452eb8eec83b49bf.png)
 
-                        ![](media/6c6d410ce1e3441dc4fe180656053e7b.png)
+                    ![](media/6c6d410ce1e3441dc4fe180656053e7b.png)
 
                 11. 第9步：付钱[group 0不用付钱所以不会出现这一步, 核酸检测缴费相对独立-见后文]
 
