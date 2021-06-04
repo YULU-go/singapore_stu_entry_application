@@ -43,6 +43,8 @@
         2. 补充：[EA], 申请完EA如需更新Self-isolation Accommodation,请邮件MOE_STP_Request@moe.gov.sg
         3. 补充：[EA后]，入境核酸检测支付未必严格在[抵坡前三天]操作, EA申请完且有航班/酒店信息就能填写预支付
         4. 补充：[IPA申请],  race字段填CHINESE,  补充IPA成功申请的界面图片
+    8. 0604-1930
+        1. 更新：广东省被剔除出group 0变为group 1, 需要入境核酸+7天自定住所SHN+最后一天核酸. 已申请完EA的童鞋注意查收邮件[MOE坡教育部发来的邮件]及时按照要求更新EA信息.
    
 3.  重要官方网站
 
@@ -54,7 +56,7 @@
     1.  SHN: Stay-Home Notice, 坡关于新冠的留观和核酸检测政策
 
         具体见文件<https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf>
-        Group 0: *Australia, Brunei Darussalam, Mainland China, New Zealand* 
+        Group 0: *Australia, Brunei Darussalam, Mainland China(excluding Guangdong),, New Zealand* 
         若属于Group 0,则不需要留观. 只需要在入境时核酸检测-\>在自费单人住所住两天等核酸结果
 
     2.  ICA: 新加坡移民关卡局, 官网:[Immigration & Checkpoints Authority
