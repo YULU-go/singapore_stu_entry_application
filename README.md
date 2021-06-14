@@ -45,7 +45,7 @@
         4. 补充：[IPA申请],  race字段填CHINESE,  补充IPA成功申请的界面图片
     8. 0604-1930
         1. 更新：广东省被剔除出group 0变为group 1, 需要入境核酸+7天自定住所SHN+最后一天核酸. 已申请完EA的童鞋注意查收邮件[MOE坡教育部发来的邮件]及时按照要求更新EA信息.
-    9. 0614-2100
+    9. 0614-2300
         1. 更新：NTU mscfin发了新邮件[0611]，NTU coursework graduate program[726开学的]均可参考，因为都是对标NTU官网指南的.  将以蓝色标识[幕布上]，github用markdown暂时不知道怎么用蓝色. 以下是Outline, 详见 [抵坡前]主题
             1. 6.22开始线上预约体检. 
             2. 7.1-7.4[10am-10pm, sg time], 完成线上注册.
@@ -407,7 +407,7 @@
         6.  **重要** 7.1-7.4[10am-10pm,sg time]必须要执行的学籍注册Online Matriculation, 见[Online Matriculation Guide](https://www.ntu.edu.sg/admissions/matriculation#Content_C006_Col01),  有问题邮件<pg_matric@ntu.edu.sg>
             1. 接受了offer, 接受offer后确认了条款, 有了matric no. 且 名字啥的信息都正确\[不正确的联系mscfin修改\], 选择了matric card design&注册过Network Account.
             2. 找到下图点红框链接进行注册
-              ![](media/0614/medical_booking_rebook_emph.jpg)
+              ![](media/0614/matric_online_emph_hyperlink.jpg)
         7. [对于应届生]7.5前提交学位证和完整成绩单，二者的原件和翻译件扫描发到<mscfinance@ntu.edu.sg>
         8. [对于所有人]7.11前提交英文版学位证明, 详见[NTU学位证明要求与程序](https://www.ntu.edu.sg/admissions/graduate/gfreshmenguide/verification-for-academic-documents)
 
