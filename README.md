@@ -500,8 +500,20 @@
                ![](media/0614/medical_booking_tips4girls.jpg)
                 4. 预约修改
                ![](media/0614/medical_booking_rebook_emph.jpg) 
-
-        7.  办理STP[Completion of formalities (**COF**) for Student's
+                5. 体检需要的表格
+                    1. 登录[SOLAR系统](https://eservices.ica.gov.sg/solar/index.xhtml)，下载medical-examination-report, 体检填好第一部分 I.Personal Particulars
+                    ![](media/0614/medical_exam_report_part1.jpg) 
+                    2. MC1 Form. 在<https://www.ntu.edu.sg/admissions/graduate/gfreshmenguide/healthscreening>下载. 见下图. 体检前填好学生要填的部分.
+                    ![](media/0614/mc1form_download.jpg) 
+                    ![](media/0614/mc1form_part1.jpg) 
+                6. 体检完报告处理时间：5个工作日内.
+     
+                
+        7.  拿matric card. mscfin是在0719-0723 orientation week会发.
+             ![](media/0614/matric_collection_guide.jpg) 
+             ![](media/0614/matric_card_timetable.jpg) 
+        
+        8.  办理STP[Completion of formalities (**COF**) for Student's
             Pass,办理学生签证手续]
 
             1.  登录[SOLAR系统](https://eservices.ica.gov.sg/solar/index.xhtml)
@@ -531,15 +543,15 @@
                     letter上所要求的材料和[填好的条款确认书](https://www.ica.gov.sg/docs/default-source/ica/files/docs/terms_-_conditions_stp.pdf)
 
                 5.  当天去自助取票机拿号排队然后拿STP
+            7.  831之前发STP扫描件到<mscfinance@ntu.edu.sg>
 
         8.  其他事项：
 
             1.  原件验证\[con-offer.pdf-**Verification of Original Documents**\]
 
-                1.  Verification Report for Degree Certificate,
-                    这个应该在7.5之前学校邮件通知完成.见\[抵坡前订机票\]主题下\[其他事项\]
+                1.  Verification Report for Degree Certificate 7.5/11之前完成，见\[抵坡前\]主题
 
-                2.  其他文件的现场验证\[见邮件,截止6.14还未发\]
+                2.  其他文件的现场验证\[见邮件,截止614还未发邮件通知]\]
 
                 ![](media/4cc56777d5b9258a1745743c170e61ba.png)
 
