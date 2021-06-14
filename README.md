@@ -45,6 +45,18 @@
         4. 补充：[IPA申请],  race字段填CHINESE,  补充IPA成功申请的界面图片
     8. 0604-1930
         1. 更新：广东省被剔除出group 0变为group 1, 需要入境核酸+7天自定住所SHN+最后一天核酸. 已申请完EA的童鞋注意查收邮件[MOE坡教育部发来的邮件]及时按照要求更新EA信息.
+    9. 0614-2100
+        1. 更新：NTU mscfin发了新邮件[0611]，NTU coursework graduate program[726开学的]均可参考，因为都是对标NTU官网指南的.  将以蓝色标识[幕布上]，github用markdown暂时不知道怎么用蓝色. 以下是Outline, 详见 [抵坡前]主题
+            a. 6.22开始线上预约体检. 
+            b. 7.1-7.4[10am-10pm, sg time], 完成线上注册.
+            c. 7.5前发项目组 学位证和完整官方成绩单的原件和翻译件的扫描件.
+            d. 7.11前发项目组 英文版学位认证报告.
+            e. 8.1前完成体检并发发票扫描件到项目组.
+            f. 8.31前完成STP的申请发扫描件到项目组.
+         2. 更新：见[抵坡及抵坡后]主题
+            a. 体检流程和注意事项
+            b. 拿Matric card时间
+            
    
 3.  重要官方网站
 
@@ -64,7 +76,7 @@
 
         处理各种签证事宜的政府机构
 
-    3.  STP: student's pass, 学生签证
+    3.  STP: student's pass, 学生签证, 在[SOLAR系统](https://eservices.ica.gov.sg/solar/index.xhtml)上申请，[SOLAR系统](https://eservices.ica.gov.sg/solar/index.xhtml)是申请/处理IPA\[IPA定义见下条\]和STP的.
 
     4.  IPA/STP-IPA: student's pass in-principle letter.
 
@@ -75,12 +87,12 @@
 
 5.  **本文面向读者**：
 
-    1.  2021MSC FINANCE, 719迎新, 726开学[其他项目应该也可以参考? I don't know]
+    1.  作者是NTU 2021MSC FINANCE, 719迎新, 726开学[NTU其他项目、坡其他大学也可参考, IPA和EA申请流程和注意事项都是一样滴！]
 
     2.  初次入境, **属于留观政策中的Group 0, 不需要SHN**,
         入境时核酸阴性,无合格随行人员
 
-        Group 0: *Australia, Brunei Darussalam, Mainland China, New Zealand,* 
+        Group 0: *Australia, Brunei Darussalam, Mainland China(excluding Guangdong), New Zealand, Taiwan* 
         我们的目标是申请相关入境目的签证(对学生来讲就是STP/IPA)和EA即可.
 
     3.  **其他group可参考流程，但是时间规划需根据SHN调整**. 有随行人员见[STPHL requirements](https://safetravel.ica.gov.sg/stpl/requirements-and-process)
@@ -379,28 +391,35 @@
 
         1.  [若之前已经完成可以跳过]注册预付入境核酸检测. [在樟宜机场入境点这](https://safetravel.changiairport.com/).[在丹那美拉轮渡码头入境点这](https://oat.mpa.gov.sg/).通过陆路入境者, 直接现场操作.   
         
-        2.  在[NTU Travel
-            Declaration系统](https://sso.wis.ntu.edu.sg/webexe88/owa/sso_login1.asp?t=2&p2=https://wis.ntu.edu.sg/pls/webexe88/declare_overseas.plans&extra=&pg=)上更新自己已确认的航班和旅程信息[**出发前至少2周**,根据con-
-            offer.pdf-Travel Declaration], 如有变更需在系统上更新
+        2.  在[NTU Travel Declaration系统](https://sso.wis.ntu.edu.sg/webexe88/owa/sso_login1.asp?t=2&p2=https://wis.ntu.edu.sg/pls/webexe88/declare_overseas.plans&extra=&pg=)[登录后有pdf的填写指南]更新自己已确认的航班和旅程信息[出发前至少2周,根据con- offer.pdf-Travel Declaration], 如有变更需在系统上更新
 
-        3.  在[NTU Contact
-            Information](https://sso.wis.ntu.edu.sg/webexe88/owa/sso_login1.asp?t=2&p2=https://wis.ntu.edu.sg/webexe/owa/pgr$wuhan.main)系统上更新新加坡手机号[若有]--确保SHN[若适用]期间始终能联系到你--如有变更需在系统上更新
+        3.  在[NTU Contact Information](https://sso.wis.ntu.edu.sg/webexe88/owa/sso_login1.asp?t=2&p2=https://wis.ntu.edu.sg/webexe/owa/pgr$wuhan.main)系统上更新新加坡手机号[若有]--确保SHN[若适用]期间始终能联系到你--如有变更需在系统上更新
 
-        4.  6.22 线上预定体检日期
+        4.  6.22 开始可以线上预定体检日期，详情见<https://www.ntu.edu.sg/admissions/graduate/gfreshmenguide/healthscreening>. 注意8.1之前必须完成体检并在SOLAR系统/STP系统上提交报告.
+            1. 预约前提：你已经获得了EA
+            2. 预约方式：先到先得. 在622前邮件会发 预约时间表. 然后在[线上](https://www.ntu.edu.sg/admissions/graduate/gfreshmenguide/healthscreening)预约
+              ![](media/0614/medical_booking.jpg)
+            3. 女生贴士: 预约时考虑下经期, 详见下图第二条备注.
+              ![](media/0614/medical_booking_tips4girls.jpg)
+            4. 预约修改
+              ![](media/0614/medical_booking_rebook_emph.jpg)
 
         5.  6.28 两门线上课程 python for finance&excel for finance
 
-        6.  7.5之前提交学历证明和完整成绩单[见con-offer.pdf][具体操作见后续邮件]
+        6.  **重要** 7.1-7.4[10am-10pm,sg time]必须要执行的学籍注册Online Matriculation, 见[Online Matriculation Guide](https://www.ntu.edu.sg/admissions/matriculation#Content_C006_Col01),  有问题邮件<pg_matric@ntu.edu.sg>
+            1. 接受了offer, 接受offer后确认了条款, 有了matric no. 且 名字啥的信息都正确[不正确的联系mscfin修改], 选择了matric card design&注册过Network Account.
+            2. 找到下图点红框链接进行注册
+              ![](media/0614/medical_booking_rebook_emph.jpg)
+        7. [对于应届生]7.5前提交学位证和完整成绩单，二者的原件和翻译件扫描发到<mscfinance@ntu.edu.sg>
+        8. [对于所有人]7.11前提交英文版学位证明, 详见[NTU学位证明要求与程序](https://www.ntu.edu.sg/admissions/graduate/gfreshmenguide/verification-for-academic-documents)
 
-            ![](media/c61b93259341efcdafbdf80f686824f9.png)
-
-        7.  SHN[若适用]必备物品-information guide.zip
+        9.  SHN[若适用]必备物品-information guide.zip
 
             ![](media/eb0522a38c241eb1ae427a7bbf6a0a96.png)
 
-        8.  其他事项
+        10.  其他事项
 
-            1.  在正式入学前需要**Online Matriculation**[con-offer.pdf],
+             1.  在正式入学前需要**Online Matriculation**[con-offer.pdf],
                 具体会讲, 发生时间也可能是抵坡后
 
     5.  7月初-7月中,抵坡前3天
@@ -478,10 +497,9 @@
 
         6.  体检
 
-            1.  在Fullerton Health @ NTU进行体检.
-                体检若没通过则不能上学且得自费回家.
-
-                体检除常规外还包括HIV和肺结核检查.
+            1.  在Fullerton Health @ NTU进行体检.体检若没通过则不能上学且得自费回家.体检除常规外还包括HIV和肺结核检查.
+            2.  体检必须在8.1号之前完成. 8.1前发体检发票\[由University Health Services (UHS) at NTU签发\]扫描件到<mscfinance@ntu.edu.sg>
+            3.  6.22 开始可以线上预定体检日期，详情见<https://www.ntu.edu.sg/admissions/graduate/gfreshmenguide/healthscreening>. 注意8.1之前必须完成体检并在[SOLAR系统](https://eservices.ica.gov.sg/solar/index.xhtml)上提交报告.
 
         7.  办理STP[Completion of formalities (**COF**) for Student's
             Pass,办理学生签证手续]
