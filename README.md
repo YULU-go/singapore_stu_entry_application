@@ -47,15 +47,15 @@
         1. 更新：广东省被剔除出group 0变为group 1, 需要入境核酸+7天自定住所SHN+最后一天核酸. 已申请完EA的童鞋注意查收邮件[MOE坡教育部发来的邮件]及时按照要求更新EA信息.
     9. 0614-2100
         1. 更新：NTU mscfin发了新邮件[0611]，NTU coursework graduate program[726开学的]均可参考，因为都是对标NTU官网指南的.  将以蓝色标识[幕布上]，github用markdown暂时不知道怎么用蓝色. 以下是Outline, 详见 [抵坡前]主题
-            a. 6.22开始线上预约体检. 
-            b. 7.1-7.4[10am-10pm, sg time], 完成线上注册.
-            c. 7.5前发项目组 学位证和完整官方成绩单的原件和翻译件的扫描件.
-            d. 7.11前发项目组 英文版学位认证报告.
-            e. 8.1前完成体检并发发票扫描件到项目组.
-            f. 8.31前完成STP的申请发扫描件到项目组.
+            1. 6.22开始线上预约体检. 
+            2. 7.1-7.4[10am-10pm, sg time], 完成线上注册.
+            3. 7.5前发项目组 学位证和完整官方成绩单的原件和翻译件的扫描件.
+            4. 7.11前发项目组 英文版学位认证报告.
+            5. 8.1前完成体检并发发票扫描件到项目组.
+            6. 8.31前完成STP的申请发扫描件到项目组.
          2. 更新：见[抵坡及抵坡后]主题
-            a. 体检流程和注意事项
-            b. 拿Matric card时间
+            1. 体检流程和注意事项
+            2. 拿Matric card时间
             
    
 3.  重要官方网站
@@ -135,7 +135,7 @@
             1.  时间：在课程开始前的**1-2个月**内申请, **IPA有效期6个月,
                 IPA≠STP.**
 
-            2.  地址：[SOLAR系统](https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf), 具体见操作
+            2.  地址：[SOLAR系统](https://eservices.ica.gov.sg/solar/index.xhtml), 具体见操作
 
                 Student's Pass OnLine Application & Registration.
                 用于申请和更新已签发的STP的信息
@@ -152,7 +152,7 @@
                     and course end dates 3. SOLAR application reference number
 
                 2.  登录：使用SOLAR FORM上的五个字段(SOLAR app no., Name, Sex,
-                    Nationality, Birth Date)登录[SOLAR系统](https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf). **Kindly ensure that
+                    Nationality, Birth Date)登录[SOLAR系统](https://eservices.ica.gov.sg/solar/index.xhtml). **Kindly ensure that
                     your name input onto the ICA (Student login page) follows
                     the format reflected on the SOLAR form provided.**
 
@@ -187,7 +187,7 @@
 
                 8.  处理时间：5-10个工作日[或更长by case]
 
-                9.  查看申请状态：[SOLAR系统](https://safetravel.ica.gov.sg/files/SHN-and-swab-summary.pdf). 成功的界面↓, 上传文档啥的需要抵坡后操作比如在学校体检的文件等, 所以不用管它
+                9.  查看申请状态：[SOLAR系统](https://eservices.ica.gov.sg/solar/index.xhtml). 成功的界面↓, 上传文档啥的需要抵坡后操作比如在学校体检的文件等, 所以不用管它
                 ![](media/IPA_success_application_screenshot.png)
                 
                 10. 批准后，**打印IPA**
@@ -203,12 +203,10 @@
 
         1.  假设：没有合格随行人员, 就学生为自己申请, 若有则见参考
 
-        2.  参考：NTU下发information guide.zip, [STPHL
-            requirements](https://safetravel.ica.gov.sg/stpl/requirements-and-process)[student's
-            pass holder lane requirements for EA application],
+        2.  参考：NTU下发information guide.zip, 
+            [STPHL requirements](https://safetravel.ica.gov.sg/stpl/requirements-and-process)
             [EA网申指南](https://safetravel.ica.gov.sg/files/stp-application-step-by-step-guide.pdf),
-            [STO online
-            portal](https://eservices.ica.gov.sg/STO)[在该网站申请EA]
+            [STO online portal](https://eservices.ica.gov.sg/STO)[在该网站申请EA]
 
             ![](media/e225fc4d7b9ff37c447295afc6406791.png)
 
@@ -357,7 +355,7 @@
 
                 9.  第7B步：填accompanying Work Pass Holder信息[若适用]-略
 
-                10. 第8步：确认条款和付款明细[group 0不用付钱所以不会出现`付款明细`这一步, 核酸检测缴费相对独立-见后文]
+                10. 第8步：确认条款和付款明细\[group 0不用付钱所以不会出现`付款明细`这一步, 核酸检测缴费相对独立-见后文\]
 
                     ![](media/7b9256071847b75f5b67ad4e8ef1d9ce.png)
 
@@ -365,7 +363,7 @@
 
                     ![](media/6c6d410ce1e3441dc4fe180656053e7b.png)
 
-                11. 第9步：付钱[group 0不用付钱所以不会出现这一步, 核酸检测缴费相对独立-见后文]
+                11. 第9步：付钱\[group 0不用付钱所以不会出现这一步, 核酸检测缴费相对独立-见后文\]
 
                     1.  付款有困难STO来帮你: contact the Safe Travel hotline at
                         6812 5555
@@ -387,7 +385,7 @@
         6. [不急, 抵坡前几天操作也可]注册预付入境核酸检测. [在樟宜机场入境点这](https://safetravel.changiairport.com/).[在丹那美拉轮渡码头入境点这](https://oat.mpa.gov.sg/).通过陆路入境者, 直接现场操作.   
 
 
-    4.  6月-7月初,[申请完EA后]抵坡前
+    4.  6月-7月初,\[申请完EA后\]抵坡前
 
         1.  [若之前已经完成可以跳过]注册预付入境核酸检测. [在樟宜机场入境点这](https://safetravel.changiairport.com/).[在丹那美拉轮渡码头入境点这](https://oat.mpa.gov.sg/).通过陆路入境者, 直接现场操作.   
         
@@ -407,7 +405,7 @@
         5.  6.28 两门线上课程 python for finance&excel for finance
 
         6.  **重要** 7.1-7.4[10am-10pm,sg time]必须要执行的学籍注册Online Matriculation, 见[Online Matriculation Guide](https://www.ntu.edu.sg/admissions/matriculation#Content_C006_Col01),  有问题邮件<pg_matric@ntu.edu.sg>
-            1. 接受了offer, 接受offer后确认了条款, 有了matric no. 且 名字啥的信息都正确[不正确的联系mscfin修改], 选择了matric card design&注册过Network Account.
+            1. 接受了offer, 接受offer后确认了条款, 有了matric no. 且 名字啥的信息都正确\[不正确的联系mscfin修改\], 选择了matric card design&注册过Network Account.
             2. 找到下图点红框链接进行注册
               ![](media/0614/medical_booking_rebook_emph.jpg)
         7. [对于应届生]7.5前提交学位证和完整成绩单，二者的原件和翻译件扫描发到<mscfinance@ntu.edu.sg>
@@ -417,10 +415,6 @@
 
             ![](media/eb0522a38c241eb1ae427a7bbf6a0a96.png)
 
-        10.  其他事项
-
-             1.  在正式入学前需要**Online Matriculation**[con-offer.pdf],
-                具体会讲, 发生时间也可能是抵坡后
 
     5.  7月初-7月中,抵坡前3天
 
@@ -430,7 +424,7 @@
 
         2.  抵坡前三天
 
-            1.  Group 0 不需要--抵坡前核酸检测[若适用]
+            1.  Group 0 不需要--抵坡前核酸检测\[若适用\]
 
             2.  出发前健康旅居情况史的提交和app的下载.
 
@@ -446,7 +440,7 @@
                     [Homer](https://www.homer.gov.sg/) and
                     [WhatsApp](https://www.whatsapp.com/download)
 
-                    ![](media/a928f9c330948fdfc98f0caec1b0c677.png)
+               ![](media/a928f9c330948fdfc98f0caec1b0c677.png)
 
                     TraceTogether是任何group都要下载的,用于通知你是否近距离接触新冠疑似病例.
                     Homer是需要SHN的group需要下载.
@@ -458,21 +452,20 @@
 
             1.  EA Letter, STP/IPA
 
-            2.  [group 0不需要]Valid certificate of negative result for a
+            2.  \[group 0不需要\]Valid certificate of negative result for a
                 COVID-19 PCR test taken within 72 hours before departure for
                 Singapore (if applicable).
 
         2.  [TraceTogether](https://www.tracetogether.gov.sg/) app
 
             1.  要求已经注册好app和填好基本信息. 具体可见网页,
-                或者**[抵坡前3天]**主题下的图片
+                或者**\[抵坡前3天\]**主题下的图片
 
             2.  提醒：还需要在离坡后连续14天保留 TraceTogether app和data.
 
-    7.  抵坡[最晚716要到了]
+    7.  抵坡\[对于MSC FIN最晚716要到了(因为有orientation week)\]
 
-        1.  参考: [STPHL
-            requirements](https://safetravel.ica.gov.sg/stpl/requirements-and-process),[STP/IPA申请教程@NTU](https://www.ntu.edu.sg/life-at-ntu/student-life/onestop/student%27s-pass/application-of-student%27s-pass),
+        1.  参考: [STPHL requirements](https://safetravel.ica.gov.sg/stpl/requirements-and-process),[STP/IPA申请教程@NTU](https://www.ntu.edu.sg/life-at-ntu/student-life/onestop/student%27s-pass/application-of-student%27s-pass),
             [STP申请手续](https://www.ica.gov.sg/reside/STP/collect)
 
         2.  入境手续
@@ -486,7 +479,7 @@
             1.  \$160
 
             2.  当场付,
-                或者之前在**[抵坡前3天]**主题下已经付过.注册预付入境核酸检测.
+                或者之前在**\[抵坡前3天\]**主题下已经付过.注册预付入境核酸检测.
                 [在樟宜机场入境点这](https://safetravel.changiairport.com/).[在丹那美拉轮渡码头入境点这](https://oat.mpa.gov.sg/).通过陆路入境者,
                 直接现场操作.
 
@@ -500,6 +493,13 @@
             1.  在Fullerton Health @ NTU进行体检.体检若没通过则不能上学且得自费回家.体检除常规外还包括HIV和肺结核检查.
             2.  体检必须在8.1号之前完成. 8.1前发体检发票\[由University Health Services (UHS) at NTU签发\]扫描件到<mscfinance@ntu.edu.sg>
             3.  6.22 开始可以线上预定体检日期，详情见<https://www.ntu.edu.sg/admissions/graduate/gfreshmenguide/healthscreening>. 注意8.1之前必须完成体检并在[SOLAR系统](https://eservices.ica.gov.sg/solar/index.xhtml)上提交报告.
+                1. 预约前提：你已经获得了EA
+                2. 预约方式：先到先得. 在622前邮件会发 预约时间表. 然后在[线上](https://www.ntu.edu.sg/admissions/graduate/gfreshmenguide/healthscreening)预约
+               ![](media/0614/medical_booking.jpg)
+                3. 女生贴士: 预约时考虑下经期, 详见下图第二条备注.
+               ![](media/0614/medical_booking_tips4girls.jpg)
+                4. 预约修改
+               ![](media/0614/medical_booking_rebook_emph.jpg) 
 
         7.  办理STP[Completion of formalities (**COF**) for Student's
             Pass,办理学生签证手续]
@@ -534,13 +534,13 @@
 
         8.  其他事项：
 
-            1.  原件验证[con-offer.pdf-**Verification of Original Documents**]
+            1.  原件验证\[con-offer.pdf-**Verification of Original Documents**\]
 
                 1.  Verification Report for Degree Certificate,
-                    这个应该在7.5之前学校邮件通知完成.见[抵坡前订机票]主题下[其他事项]
+                    这个应该在7.5之前学校邮件通知完成.见\[抵坡前订机票\]主题下\[其他事项\]
 
-                2.  其他文件的现场验证[见邮件,截止5.26还未发]
+                2.  其他文件的现场验证\[见邮件,截止6.14还未发\]
 
-                    ![](media/4cc56777d5b9258a1745743c170e61ba.png)
+                ![](media/4cc56777d5b9258a1745743c170e61ba.png)
 
-                    ![](media/367e0c819e7c50537665d06e8f9f65e7.png)
+                ![](media/367e0c819e7c50537665d06e8f9f65e7.png)
