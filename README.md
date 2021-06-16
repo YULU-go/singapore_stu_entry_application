@@ -515,7 +515,7 @@
         
         8.  办理STP[Completion of formalities (**COF**) for Student's
             Pass,办理学生签证手续]
-
+            ![](media/0616STP_procedure_exp_fr_email.png) 
             1.  登录[SOLAR系统](https://eservices.ica.gov.sg/solar/index.xhtml)
 
             2.  选择"View Application Status"
