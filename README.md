@@ -56,6 +56,10 @@
          2. 更新：见[抵坡及抵坡后]主题
             1. 体检流程和注意事项
             2. 拿Matric card时间
+    10. 0616-2030
+        1. 更新：根据0616NTU mscfin邮件[通用,关于IPA和STP的进一步解释,其实本来就写了,再细化一下].
+            1. 补充细化名词解释.
+            2. [抵坡后]STP申请流程加了个图.
             
    
 3.  重要官方网站
@@ -71,19 +75,24 @@
         Group 0: *Australia, Brunei Darussalam, Mainland China(excluding Guangdong),, New Zealand* 
         若属于Group 0,则不需要留观. 只需要在入境时核酸检测-\>在自费单人住所住两天等核酸结果
 
-    2.  ICA: 新加坡移民关卡局, 官网:[Immigration & Checkpoints Authority
-        (ICA)](https://www.ica.gov.sg/)
+    2.  ICA: 新加坡移民关卡局, 官网:<https://www.ica.gov.sg/>
 
         处理各种签证事宜的政府机构
+    3.  MOE: Ministry of Education，坡教育部，官网: <https://www.moe.gov.sg/>
 
-    3.  STP: student's pass, 学生签证, 在[SOLAR系统](https://eservices.ica.gov.sg/solar/index.xhtml)上申请，[SOLAR系统](https://eservices.ica.gov.sg/solar/index.xhtml)是申请/处理IPA\[IPA定义见下条\]和STP的.
+    4.  STP: student's pass, 学生签证, 在[SOLAR系统](https://eservices.ica.gov.sg/solar/index.xhtml)上申请，[SOLAR系统](https://eservices.ica.gov.sg/solar/index.xhtml)是申请/处理IPA\[IPA定义见下条\]和STP的.由ICA批准.
 
-    4.  IPA/STP-IPA: student's pass in-principle letter.
+    5.  IPA/STP-IPA: student's pass in-principle letter. 由ICA批准. 
 
         **初次入境就读申请的STP临时文件, 入境后注册、体检合格后到ICA
         building申请将IPA转为STP**
 
-    5.  EA: Entry Approval, 持各类签证的人都需要申请的一个入境许可.
+    5.  SOLAR, Student's Pass OnLine Application & Registration. 这个学校会发一个内有solar application number的pdf或者邮件通知, 用于申请和更新已签发的STP/IPA的信息. IPA/STP各项事宜的处理都在[SOLAR系统](https://eservices.ica.gov.sg/solar/index.xhtml).
+    6.  EA: Entry Approval, 持各类签证的人都需要申请的一个入境许可.STP/IPA持有者由MOE签发EA.
+    7.  FIN: Foreign Identification Number. 坡永久居民(permanent resident), 各类长期签证持有者(long-term pass holders)[包括学生签证]拥有的识别号.
+        **IPA letter上的FIN就是你未来IPA转成STP拿到的STP的FIN.**
+    8. VISA: 学生签证(STP/IPA)就是兼具VISA的功能，所以不需要考虑VISA. 
+        **IPA letter writes: If you require a visa, this IPA letter also serves as a pre-approved visa. **
 
 5.  **本文面向读者**：
 
@@ -190,7 +199,8 @@
                 9.  查看申请状态：[SOLAR系统](https://eservices.ica.gov.sg/solar/index.xhtml). 成功的界面↓, 上传文档啥的需要抵坡后操作比如在学校体检的文件等, 所以不用管它
                 ![](media/IPA_success_application_screenshot.png)
                 
-                10. 批准后，**打印IPA**
+                10. 批准后，**打印IPA并存电子档在手机备用,入境时需向海关出示.**
+                11. 注意：IPA letter上的FIN就是你未来IPA转成STP拿到的STP的FIN【自己租房可能需要用到】. FIN: Foreign Identification Number. 坡永久居民(permanent resident), 各类长期签证持有者(long-term pass holders)[包括学生签证]拥有的识别号.
 
         2.  交学费
 
@@ -516,6 +526,7 @@
         8.  办理STP[Completion of formalities (**COF**) for Student's
             Pass,办理学生签证手续]
             ![](media/0616STP_procedure_exp_fr_email.png) 
+
             1.  登录[SOLAR系统](https://eservices.ica.gov.sg/solar/index.xhtml)
 
             2.  选择"View Application Status"
