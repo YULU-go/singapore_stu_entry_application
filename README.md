@@ -61,9 +61,9 @@
             1. 补充细化名词解释.
             2. [抵坡后]STP申请流程加了个图.
     
-    11. 0623-1400
+    11. 0623-1930
         1. 根据群消息、0622的两封邮件更新
-            1.细化[抵坡前]体检预约事宜
+            1.细化[抵坡前]体检预约事宜，明确发送啥扫描件给项目组
             2.细化[抵坡后]原件验证事宜，见[抵坡后-orientation week]  
             
    
@@ -410,9 +410,10 @@
 
         4.  6.22 开始可以线上预定体检日期，详情见<https://www.ntu.edu.sg/admissions/graduate/gfreshmenguide/healthscreening>. 
             1. 注意
-                1. 8.1之前必须完成体检并在SOLAR系统/STP系统上提交报告.
-                2. 如要预约7.26那周及之后, 7.23会开通选项.[from 0622mail by Gallen at ntu msc fin]
-                3. 预约请避开orientation week有活动的时候\[对有orientation week 的项目, 下图是msc fin orientation schedule\].
+                1. 8.1之前必须参与体检,体检当天会出具发票, 8.1之前发送发票扫描件\[不是体检报告\]至<mscfinance@ntu.edu.sg>; 体检完后报告出具需5个工作日.
+                2. 体检完记得在[SOLAR系统](https://eservices.ica.gov.sg/solar/index.xhtml)上提交报告(step1)以完成后续STP的申请, 见\[抵坡后-COF for STP\].
+                3. 如要预约7.26那周及之后, 7.23会开通选项.[from 0622mail by Gallen at ntu msc fin]
+                4. 预约请避开orientation week有活动的时候\[对有orientation week 的项目, 下图是msc fin orientation schedule\].
               ![](media/0623orientation_week.png)
             2. 预约前提：你已经获得了EA
             3. 预约方式：先到先得. 在622前邮件会发 预约时间表. 然后在[线上](https://www.ntu.edu.sg/admissions/graduate/gfreshmenguide/healthscreening)预约,**记得Print(截图也可)**
@@ -512,11 +513,12 @@
 
             1.  在Fullerton Health @ NTU进行体检.体检若没通过则不能上学且得自费回家.体检除常规外还包括HIV和肺结核检查.
             2.  体检必须在8.1号之前完成. 8.1前发体检发票\[由University Health Services (UHS) at NTU签发\]扫描件到<mscfinance@ntu.edu.sg>
-            3.  6.22 开始可以线上预定体检日期，详情见<https://www.ntu.edu.sg/admissions/graduate/gfreshmenguide/healthscreening>. 
+            3.  体检详情见<https://www.ntu.edu.sg/admissions/graduate/gfreshmenguide/healthscreening>. 
                 1. 注意
-                    1. 8.1之前必须完成体检并在SOLAR系统/STP系统上提交报告.
-                    2. 如要预约7.26那周及之后, 7.23会开通选项.[from 0622mail by Gallen at ntu msc fin]
-                    3. 预约请避开orientation week有活动的时候\[对有orientation week 的项目, 下图是msc fin orientation schedule\].
+                    1. 8.1之前必须参与体检,体检当天会出具发票, 8.1之前发送发票扫描件\[不是体检报告\]至<mscfinance@ntu.edu.sg>; 体检完后报告出具需5个工作日.
+                    2. 体检完记得在[SOLAR系统](https://eservices.ica.gov.sg/solar/index.xhtml)上提交报告(step1)以完成后续STP的申请, 见\[抵坡后-COF for STP\].
+                    3. 如要预约7.26那周及之后, 7.23会开通选项.[from 0622mail by Gallen at ntu msc fin]
+                    4. 预约请避开orientation week有活动的时候\[对有orientation week 的项目, 下图是msc fin orientation schedule\].
                ![](media/0623orientation_week.png)
                 2. 预约前提：你已经获得了EA
                 3. 预约方式：先到先得. 在622前邮件会发 预约时间表. 然后在[线上](https://www.ntu.edu.sg/admissions/graduate/gfreshmenguide/healthscreening)预约,**记得Print(截图也可)**
@@ -543,7 +545,8 @@
                 1.护照、GMAT/GRE、TOEFL/IELTS
                 2.如果你没有GMAT/GRE、TOEFL/IELTS的原件或者纸质版，请确保能现场登录账号以核实成绩.
 
-        8.  办理STP[Completion of formalities (**COF**) for Student's
+        8.  8.1之前发送体检发票扫描件[不是体检报告]给<mscfinance@ntu.edu.sg>
+        9.  办理STP[Completion of formalities (**COF**) for Student's
             Pass,办理学生签证手续]
             ![](media/0616STP_procedure_exp_fr_email.png) 
 
